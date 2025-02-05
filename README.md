@@ -6,4 +6,4 @@ Para ejecutar el soitema, debes poner:
 
 """npm install react """
 
-sistema de resgistro 2
+sitema de resgistro 2
